@@ -222,7 +222,11 @@ p{
 .copyright a{
 	color: #555;
 }
-
+@media(max-width: 640px){
+	.post-title{
+		font-size: 20px; 
+	}
+}
 
 
 
